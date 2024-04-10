@@ -1,4 +1,4 @@
-From time to time I publsih beta versions of the Open Source projects that I maintain to give collaborators access to new feature I am working on or to give them the ability to validate functionality, bug fixes, etc. I publish these package on my personal Feedz.io nuget feed.
+From time to time I publish beta versions of the Open Source projects that I maintain to give collaborators access to new feature I am working on or to give them the ability to validate functionality, bug fixes, etc. I publish these package on my personal Feedz.io nuget feed.
 
 The NuGet v3 URL for this repository is: `https://f.feedz.io/jericho/jericho/nuget/index.json`
 
