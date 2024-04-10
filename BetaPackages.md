@@ -7,7 +7,7 @@ If you are using Visual Studio, you can add this feed by following these steps:
 2. Go to Tools > Options.
 3. Expand the NuGet Package Manager section, and then select Package Sources.
 4. Click the green (+) sign to add a source.
-5. Enter the `Jericho's prsonal nuget feed` as the Name and use `https://f.feedz.io/jericho/jericho/nuget/index.json` for the Source URL.
+5. Enter the `Jericho's personal nuget feed` as the Name and use `https://f.feedz.io/jericho/jericho/nuget/index.json` for the Source URL.
 6. Select OK when you're done.
 
 To use the feed:
