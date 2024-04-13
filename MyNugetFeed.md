@@ -2,7 +2,10 @@ From time to time I publish beta versions of the Open Source projects that I mai
 
 The NuGet v3 URL for this repository is: `https://f.feedz.io/jericho/jericho/nuget/index.json`
 
-__If you are using Visual Studio, you can add this feed by following these steps:__
+
+__Visual Studio__
+
+If you are using Visual Studio, you can add this feed by following these steps:
 1. Open Visual Studio.
 2. Go to Tools > Options.
 3. Expand the NuGet Package Manager section, and then select Package Sources.
@@ -10,12 +13,17 @@ __If you are using Visual Studio, you can add this feed by following these steps
 5. Enter the `Jericho's personal nuget feed` as the Name and use `https://f.feedz.io/jericho/jericho/nuget/index.json` for the Source URL.
 6. Select OK when you're done.
 
-__Aternatively, you can run the following command:__
+
+__Command Line__
+
+Alternatively, you can run the following command:
 ```
 nuget sources Add -Name "Jericho's personal nuget feed" -Source https://f.feedz.io/jericho/jericho/nuget/index.json
 ```
 
+
 __To use the feed:__
+
 1. Right-click on your project in the Solution Explorer, then select Manage NuGet Packages....
 2. Select Browse, and then select your new feed from the Package source dropdown menu.
 3. Use the search bar to look for packages in your feed.
